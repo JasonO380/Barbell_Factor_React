@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/JasonO380/react_barbell_factor.git/precache-manifest.fb4e2db0cc2900ba2cd865cf844f6002.js"
+  "/react_barbell_factor/precache-manifest.a78402a741de93be7db50449911e163a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/JasonO380/react_barbell_factor.git/index.html", {
+workbox.routing.registerNavigationRoute("/react_barbell_factor/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
