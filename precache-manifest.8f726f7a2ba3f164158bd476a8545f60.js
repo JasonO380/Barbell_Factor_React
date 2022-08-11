@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "de8102c234182996e890",
+    "revision": "f00ab74df6432ca59b6d",
     "url": "/react_barbell_factor/static/css/main.7ff030b7.chunk.css"
   },
   {
-    "revision": "de8102c234182996e890",
-    "url": "/react_barbell_factor/static/js/main.de8102c2.chunk.js"
+    "revision": "f00ab74df6432ca59b6d",
+    "url": "/react_barbell_factor/static/js/main.f00ab74d.chunk.js"
   },
   {
     "revision": "6a307a4485c2b96ccafa",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/react_barbell_factor/static/media/profilepic.c2e00923.jpeg"
   },
   {
-    "revision": "423f4667d8b0ca1ebae509a67b41cfe0",
+    "revision": "e58096c206cba9f4c4a5c0aae0b7e073",
     "url": "/react_barbell_factor/index.html"
   }
 ];
