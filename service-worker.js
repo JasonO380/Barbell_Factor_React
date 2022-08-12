@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react_barbell_factor/precache-manifest.b431352b9e53694c3b7f84fa1cc4e33a.js"
+  "/react_barbell_factor/precache-manifest.60b038665a474dda4d7f6ee3fd03bdba.js"
 );
 
 workbox.clientsClaim();
