@@ -1,0 +1,11 @@
+.workout_wrapper{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.workout_container{
+    border: 2px solid #f8df00;
+    border-radius: 20px;
+    margin-top: 25px;
+}
