@@ -1,0 +1,52 @@
+/* .update_container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.update_header{
+    flex: 1 1 100%;
+    text-align: center;
+    color: white;
+}
+
+.update_form_header{
+    margin-top: 120px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.update_form_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+} */
+
+.update_form_container{
+    text-align: center;
+}
+
+.update_header{
+    text-align: center;
+}
+
+/* .movement_data{
+    width: fit-content;
+} */
+
+.form_inputs {
+    flex: 1 1 30%;
+    text-align: center;
+}
+
+.macro_inputs{
+    text-align: center;
+    height: 50px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+
