@@ -1,7 +1,7 @@
 {
-  "main.css": "/react_barbell_factor/static/css/main.7ff030b7.chunk.css",
-  "main.js": "/react_barbell_factor/static/js/main.af9918c9.chunk.js",
-  "main.js.map": "/react_barbell_factor/static/js/main.af9918c9.chunk.js.map",
+  "main.css": "/react_barbell_factor/static/css/main.1ab0d5b1.chunk.css",
+  "main.js": "/react_barbell_factor/static/js/main.f69ae1ea.chunk.js",
+  "main.js.map": "/react_barbell_factor/static/js/main.f69ae1ea.chunk.js.map",
   "static/js/1.6a307a44.chunk.js": "/react_barbell_factor/static/js/1.6a307a44.chunk.js",
   "static/js/1.6a307a44.chunk.js.map": "/react_barbell_factor/static/js/1.6a307a44.chunk.js.map",
   "static/css/2.f3ddd8c7.chunk.css": "/react_barbell_factor/static/css/2.f3ddd8c7.chunk.css",
@@ -11,9 +11,9 @@
   "runtime~main.js.map": "/react_barbell_factor/static/js/runtime~main.2f77578f.js.map",
   "static/media/barbellfactor.jpeg": "/react_barbell_factor/static/media/barbellfactor.ec8a2bad.jpeg",
   "static/media/profilepic.jpeg": "/react_barbell_factor/static/media/profilepic.c2e00923.jpeg",
-  "static/css/main.7ff030b7.chunk.css.map": "/react_barbell_factor/static/css/main.7ff030b7.chunk.css.map",
   "static/css/2.f3ddd8c7.chunk.css.map": "/react_barbell_factor/static/css/2.f3ddd8c7.chunk.css.map",
+  "static/css/main.1ab0d5b1.chunk.css.map": "/react_barbell_factor/static/css/main.1ab0d5b1.chunk.css.map",
   "index.html": "/react_barbell_factor/index.html",
-  "precache-manifest.60b038665a474dda4d7f6ee3fd03bdba.js": "/react_barbell_factor/precache-manifest.60b038665a474dda4d7f6ee3fd03bdba.js",
+  "precache-manifest.33b7bade3e99edd202caf373b3701872.js": "/react_barbell_factor/precache-manifest.33b7bade3e99edd202caf373b3701872.js",
   "service-worker.js": "/react_barbell_factor/service-worker.js"
 }
