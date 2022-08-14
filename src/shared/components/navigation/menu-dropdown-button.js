@@ -11,10 +11,10 @@ const DropdownMenu = () => {
     
             <Dropdown.Menu>
                 <Dropdown.Item href="/">Home</Dropdown.Item>
-                <Dropdown.Item href="/dashboard">Macro logger</Dropdown.Item>
-                <Dropdown.Item href="macrosgraph">Macro viewer</Dropdown.Item>
-                <Dropdown.Item href="workoutlog">Workout logger</Dropdown.Item>
-                <Dropdown.Item href="workoutview">Workout viewer</Dropdown.Item>
+                <Dropdown.Item href="/Barbell_Factor_React/dashboard">Macro logger</Dropdown.Item>
+                <Dropdown.Item href="/Barbell_Factor_React/macrosgraph">Macro viewer</Dropdown.Item>
+                <Dropdown.Item href="/Barbell_Factor_React/workoutlog">Workout logger</Dropdown.Item>
+                <Dropdown.Item href="/Barbell_Factor_React/workoutview">Workout viewer</Dropdown.Item>
             </Dropdown.Menu>
         </Dropdown>
     );
