@@ -2,6 +2,7 @@
   "main.css": "/Barbell_Factor_React/static/css/main.854553d5.chunk.css",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "main.js": "/Barbell_Factor_React/static/js/main.cc64b9b9.chunk.js",
   "main.js.map": "/Barbell_Factor_React/static/js/main.cc64b9b9.chunk.js.map",
   "runtime~main.js": "/Barbell_Factor_React/static/js/runtime~main.4ecf7880.js",
@@ -20,19 +21,27 @@
   "main.js": "/Barbell_Factor_React/static/js/main.6f1b1abd.chunk.js",
   "main.js.map": "/Barbell_Factor_React/static/js/main.6f1b1abd.chunk.js.map",
 >>>>>>> Updates
+=======
+  "main.js": "/Barbell_Factor_React/static/js/main.cc64b9b9.chunk.js",
+  "main.js.map": "/Barbell_Factor_React/static/js/main.cc64b9b9.chunk.js.map",
+>>>>>>> Updates
   "runtime~main.js": "/Barbell_Factor_React/static/js/runtime~main.4ecf7880.js",
   "runtime~main.js.map": "/Barbell_Factor_React/static/js/runtime~main.4ecf7880.js.map",
   "static/css/2.21ec12e9.chunk.css": "/Barbell_Factor_React/static/css/2.21ec12e9.chunk.css",
-  "static/js/2.aeebf169.chunk.js": "/Barbell_Factor_React/static/js/2.aeebf169.chunk.js",
-  "static/js/2.aeebf169.chunk.js.map": "/Barbell_Factor_React/static/js/2.aeebf169.chunk.js.map",
+  "static/js/2.6de79147.chunk.js": "/Barbell_Factor_React/static/js/2.6de79147.chunk.js",
+  "static/js/2.6de79147.chunk.js.map": "/Barbell_Factor_React/static/js/2.6de79147.chunk.js.map",
   "static/js/3.fa2834be.chunk.js": "/Barbell_Factor_React/static/js/3.fa2834be.chunk.js",
   "static/js/3.fa2834be.chunk.js.map": "/Barbell_Factor_React/static/js/3.fa2834be.chunk.js.map",
   "index.html": "/Barbell_Factor_React/index.html",
+<<<<<<< HEAD
 <<<<<<< HEAD
   "precache-manifest.64a5f4577aa690e61ce3024ec33378d6.js": "/Barbell_Factor_React/precache-manifest.64a5f4577aa690e61ce3024ec33378d6.js",
 >>>>>>> 194bbd2c4f729bb741391dfb5f30233d49bcd084
 =======
   "precache-manifest.87a4081d88fd75d5c097fb5fa293a288.js": "/Barbell_Factor_React/precache-manifest.87a4081d88fd75d5c097fb5fa293a288.js",
+>>>>>>> Updates
+=======
+  "precache-manifest.f69d2409c25b5388dee0ec9ad6ce1cff.js": "/Barbell_Factor_React/precache-manifest.f69d2409c25b5388dee0ec9ad6ce1cff.js",
 >>>>>>> Updates
   "service-worker.js": "/Barbell_Factor_React/service-worker.js",
   "static/css/2.21ec12e9.chunk.css.map": "/Barbell_Factor_React/static/css/2.21ec12e9.chunk.css.map",

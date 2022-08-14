@@ -16,12 +16,16 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 importScripts(
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "/Barbell_Factor_React/precache-manifest.f69d2409c25b5388dee0ec9ad6ce1cff.js"
 =======
   "/Barbell_Factor_React/precache-manifest.64a5f4577aa690e61ce3024ec33378d6.js"
 >>>>>>> 194bbd2c4f729bb741391dfb5f30233d49bcd084
 =======
   "/Barbell_Factor_React/precache-manifest.87a4081d88fd75d5c097fb5fa293a288.js"
+>>>>>>> Updates
+=======
+  "/Barbell_Factor_React/precache-manifest.f69d2409c25b5388dee0ec9ad6ce1cff.js"
 >>>>>>> Updates
 );
 
